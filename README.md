@@ -61,9 +61,7 @@ Available resolutions:
 - 1080p
 ```
 
-## License
 
-[MIT License](LICENSE)
 
 ## Contributing
 
